@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/NETTTATRT/static/css/main.348a9def.css",
+    "main.js": "/NETTTATRT/static/js/main.de3ed8e1.js",
+    "static/js/453.0da69896.chunk.js": "/NETTTATRT/static/js/453.0da69896.chunk.js",
+    "static/media/1.png": "/NETTTATRT/static/media/1.034f1e05a3752579e0b0.png",
+    "static/media/3.png": "/NETTTATRT/static/media/3.5d60ad109e474b0f68aa.png",
+    "static/media/2.png": "/NETTTATRT/static/media/2.8563a9b8604354554997.png",
+    "static/media/logo.png": "/NETTTATRT/static/media/logo.c3067270311d834dd695.png",
+    "index.html": "/NETTTATRT/index.html",
+    "main.348a9def.css.map": "/NETTTATRT/static/css/main.348a9def.css.map",
+    "main.de3ed8e1.js.map": "/NETTTATRT/static/js/main.de3ed8e1.js.map",
+    "453.0da69896.chunk.js.map": "/NETTTATRT/static/js/453.0da69896.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.348a9def.css",
+    "static/js/main.de3ed8e1.js"
+  ]
+}
