@@ -1,0 +1,70 @@
+
+.top-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 127px; /* adjust the height to your needs */
+}
+
+.top-img img {
+  max-width: 35%;
+  height: auto;
+  /* margin-top: 2
+  .5%; */
+}
+.trophy{
+  display: flex;
+}
+.trophy img{
+  max-width: 50%;
+  height: 526px;
+  margin-top: 2.5%;
+  display: flex;
+}
+.paragift img{
+  max-width: 100%;
+  height: 327px;
+  width: 607px;
+  margin-top: 2.5%;
+  margin-left: -35px;
+}
+.paragift{
+  margin-left:305px;;
+}
+/* h3{
+  margin-top: 100px;
+} */
+.mid img{
+  height: 50%;
+  width: 80%;
+  margin-right: 10%;
+  margin-left: 10%;
+  
+}
+.item{
+margin-left: 25%;
+}
+hr.solid {
+  border-top: 3px solid red;
+}
+.end{
+margin-left: 32%;
+font-weight: bold;
+}
+.foods{
+  margin-left: 10%;
+font-weight: bold
+}
+.endFoot{
+  background-color: red;
+  width: 100%;
+  height: 90px;
+  margin-left: 5px 0px 5px;
+  
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+.web{
+  margin-left: 5%;
+}
